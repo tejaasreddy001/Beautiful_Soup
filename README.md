@@ -1,2 +1,2 @@
-# Beautiful_Soup
-Beautiful Soup Course
+# Hugging_face
+Hugging face course 
